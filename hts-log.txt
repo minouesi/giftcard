@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 13 Jul 2021 23:54:37 at https://humnchck.co/b21c7d1 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://humnchck.co/b21c7d1 -O1 "C:\My Web Sites\gift card robux" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:54:55	Error: 	"Not Found" (404) at link https://humnchck.co/img/bg.png (from https://humnchck.co/b21c7d1)
+23:54:55	Error: 	"Not Found" (404) at link https://humnchck.co/style.css (from https://humnchck.co/b21c7d1)
+23:54:55	Error: 	"Not Found" (404) at link https://humnchck.co/main.js (from https://humnchck.co/b21c7d1)
+23:54:55	Error: 	"Not Found" (404) at link https://humnchck.co/customTemplateGlobal.set (from https://humnchck.co/b21c7d1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 16 links scanned, 11 files written (404839 bytes overall) [365817 bytes received at 20323 bytes/sec], 67961 bytes transferred using HTTP compression in 1 files, ratio 30%, 1.3 requests per connection
+(4 errors, 0 warnings, 0 messages)
